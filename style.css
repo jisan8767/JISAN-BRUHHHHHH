@@ -1,0 +1,62 @@
+table,
+tr,
+td,
+th {
+ border: 1px solid #ddd;
+ padding: 10px;               
+}   
+li{ margin: 0px;
+    padding: 0px;            
+     list-style-type: none ;
+     text-align: center;
+} 
+li{
+  display: inline block;              
+}   
+
+   
+div  {
+  background-color: rgb(255, 0, 85);
+  padding: 10px 20px;
+  margin-bottom: 20px;
+}
+label{
+  display: block;
+}
+.one label{
+  display: inline-block;
+}
+video{
+  width: 700px;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+header{
+  background: #f78fb3;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+  color: white;
+}
+nav{
+  background: #33d9b2;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+nav ul{
+  list-style: none;
+}
+nav ul li{
+  display: inline-block;
+  margin: 0 10px;
+}
+nav a {
+ text-decoration:none ;
+ color: white;
+ front size: 18px;
+}
